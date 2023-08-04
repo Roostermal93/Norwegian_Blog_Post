@@ -1,0 +1,70 @@
+{
+    "count": 9,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "b4aa27fb-2b3e-4742-b76d-cbb1977ce7ba",
+            "collectionId": "Norwegian",
+            "type": "Blog_Post",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Norwegian/Norwegian_Blog_Post/b4aa27fb-2b3e-4742-b76d-cbb1977ce7ba/b4aa27fb-2b3e-4742-b76d-cbb1977ce7ba_no_Female.mp4"
+        },
+        {
+            "id": "d6d755ff-9ea8-4c54-adae-fa98113c915e",
+            "collectionId": "Norwegian",
+            "type": "Blog_Post",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Norwegian/Norwegian_Blog_Post/d6d755ff-9ea8-4c54-adae-fa98113c915e/d6d755ff-9ea8-4c54-adae-fa98113c915e_no_Female.mp4"
+        },
+        {
+            "id": "498f9d30-6a7d-4b33-b7a5-14ee838c534d",
+            "collectionId": "Norwegian",
+            "type": "Blog_Post",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Norwegian/Norwegian_Blog_Post/498f9d30-6a7d-4b33-b7a5-14ee838c534d/498f9d30-6a7d-4b33-b7a5-14ee838c534d_no_Male.mp4"
+        },
+        {
+            "id": "affd51d8-0a32-4633-8b21-5b4c61c8e668",
+            "collectionId": "Norwegian",
+            "type": "Blog_Post",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Norwegian/Norwegian_Blog_Post/affd51d8-0a32-4633-8b21-5b4c61c8e668/affd51d8-0a32-4633-8b21-5b4c61c8e668_no_Female.mp4"
+        },
+        {
+            "id": "11111b57-ec09-4331-b0d0-137680127d65",
+            "collectionId": "Norwegian",
+            "type": "Blog_Post",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Norwegian/Norwegian_Blog_Post/11111b57-ec09-4331-b0d0-137680127d65/11111b57-ec09-4331-b0d0-137680127d65_no_Male.mp4"
+        },
+        {
+            "id": "87877442-3832-44b1-8c33-f03e416af434",
+            "collectionId": "Norwegian",
+            "type": "Blog_Post",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Norwegian/Norwegian_Blog_Post/87877442-3832-44b1-8c33-f03e416af434/87877442-3832-44b1-8c33-f03e416af434_no_Female.mp4"
+        },
+        {
+            "id": "53a41c44-429a-4542-bcde-ff47fefe99a4",
+            "collectionId": "Norwegian",
+            "type": "Blog_Post",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Norwegian/Norwegian_Blog_Post/53a41c44-429a-4542-bcde-ff47fefe99a4/53a41c44-429a-4542-bcde-ff47fefe99a4_no_Male.mp4"
+        },
+        {
+            "id": "345857f8-f91d-4853-9a9c-978688cb3804",
+            "collectionId": "Norwegian",
+            "type": "Blog_Post",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Norwegian/Norwegian_Blog_Post/345857f8-f91d-4853-9a9c-978688cb3804/345857f8-f91d-4853-9a9c-978688cb3804_no_Male.mp4"
+        },
+        {
+            "id": "3beb3938-2d61-44ef-8b24-b7ea03ae46f3",
+            "collectionId": "Norwegian",
+            "type": "Blog_Post",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Norwegian/Norwegian_Blog_Post/3beb3938-2d61-44ef-8b24-b7ea03ae46f3/3beb3938-2d61-44ef-8b24-b7ea03ae46f3_no_Male.mp4"
+        }
+    ]
+}
